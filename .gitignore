@@ -1,0 +1,19 @@
+# Databases and solver files are generated, large, and never versioned
+*.sqlite
+*.sqlite-journal
+*.dat
+*.lp
+*.log
+
+# Output of model/build_scenario.py
+/TRA_MS_*.sql
+/TEMOA-Italy/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Operating system and office applications
+.DS_Store
+~$*

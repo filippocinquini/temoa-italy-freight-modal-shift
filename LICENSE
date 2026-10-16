@@ -1,0 +1,63 @@
+This repository is released under two licences, according to the type of content.
+
+Copyright (c) 2026 Filippo Cinquini and Cristiano Chiapparoli.
+
+It extends TEMOA-Italy (https://github.com/MAHTEP/TEMOA-Italy),
+Copyright (c) 2021-2026 Politecnico di Torino - MAHTEP Group and the TEMOA-Italy
+contributors, which is distributed under the same two licences.
+
+
+================================================================================
+1. DATA AND DOCUMENTATION
+   Creative Commons Attribution 4.0 International (CC BY 4.0)
+================================================================================
+
+Applies to the SQL files in model/, the workbooks in data/processed/ and results/,
+the figures in docs/ and the Markdown documentation.
+
+You are free to share and adapt this material, including for commercial
+purposes, provided that you give appropriate credit, link to the licence, and
+indicate whether changes were made.
+
+  Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+  Summary:   https://creativecommons.org/licenses/by/4.0/
+
+The report docs/report.pdf is not covered by this licence: it is (c) the authors,
+all rights reserved.
+
+
+================================================================================
+2. SOFTWARE
+   MIT License
+================================================================================
+
+Applies to all source code in this repository (*.py). The files in
+scripts/temoa_italy/ are modified copies of TEMOA-Italy scripts,
+Copyright (c) Politecnico di Torino - MAHTEP Group, used under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+================================================================================
+3. THIRD-PARTY DATA
+================================================================================
+
+The files in data/raw/ are extracts of statistics published by Eurostat, the
+Joint Research Centre of the European Commission (JRC-IDEES) and ISTAT. They are
+redistributed with attribution and remain subject to the terms of their
+respective owners. See data/SOURCES.md.
